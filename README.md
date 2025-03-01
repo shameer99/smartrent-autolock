@@ -4,7 +4,7 @@ A Google Apps Script project that provides automated monitoring and control of S
 
 ## Screenshots
 
-![Google Chat Notifications](./images/chat-notifications.png)
+![Google Chat Notifications](./chat-notifications.png)
 
 
 ## Features
