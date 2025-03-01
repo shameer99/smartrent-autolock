@@ -2,6 +2,11 @@
 
 A Google Apps Script project that provides automated monitoring and control of SmartRent door locks with Google Chat notifications.
 
+## Screenshots
+
+![Google Chat Notifications](./images/chat-notifications.png)
+
+
 ## Features
 
 - 🔐 Real-time lock status monitoring
