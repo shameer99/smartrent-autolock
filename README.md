@@ -30,7 +30,6 @@ A Google Apps Script project that provides automated monitoring and control of S
    | LOGIN_EMAIL | Your SmartRent login email |
    | LOGIN_PASSWORD | Your SmartRent login password |
    | CHAT_WEBHOOK_URL | Google Chat webhook URL for notifications |
-   ```
 
 4. Configure a time-based triggers:
    - Create a trigger for `maybeAutoLock` (recommended: every 1 minute)
